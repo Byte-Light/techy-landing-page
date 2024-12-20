@@ -1,3 +1,4 @@
+live site: https://techy-landing-page.netlify.app/
 # Animated Landing Website
 
 ## Getting Started
